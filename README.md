@@ -1,5 +1,5 @@
 # Self attention based chess neural network
-<img width="1550" height="733" alt="diagram-export-10-25-2025-3_02_44-PM" src="https://github.com/user-attachments/assets/0ea6f4a1-daf1-41cb-ae13-529f4bdf2ffb" />
+<img width="1550" height="733" alt="image" src="https://github.com/user-attachments/assets/45407fa7-f0a6-4b8e-ba84-a30b93923985" />
 
 ## Input preparation
 <img width="548" height="111" alt="image" src="https://github.com/user-attachments/assets/31797e7b-0bc7-42a9-898e-e7a38dbfa106" />
